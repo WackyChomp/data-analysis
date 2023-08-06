@@ -1,2 +1,6 @@
 
+# Virtual Environment
 venv-da
+
+# APIs / Credentials
+.env
